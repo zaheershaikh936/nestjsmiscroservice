@@ -1,6 +1,5 @@
 !USER
-
-● User should be able to register (Email, Password).
+● User should be able to register (Email, Password). 
 ● User should be able to login (Email, Password).
 ● User should be able to get a list of products by pages and sort them based on the price .
 ● User should be able to filter products by name.
